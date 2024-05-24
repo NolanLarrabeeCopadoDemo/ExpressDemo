@@ -3,14 +3,6 @@
     {
       "path": "srcMyCoreApp",
       "default": true
-    },
-    {
-      "path": "srcMySalesApp",
-      "default": false
-    },
-    {
-      "path": "srcMyServiceApp",
-      "default": false
     }
   ],
   "name": "cohortFall22",
